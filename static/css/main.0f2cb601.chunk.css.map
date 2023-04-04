@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CACnB,IAGC,cAAe,CACf,eAAiB,CAClB,yBAIG,iBAAkB","file":"main.0f2cb601.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.h1 {\n  font-size: 24px;\n  font-weight: bold;\n}\n\n.button {\n  &:not(:last-child) {\n    margin-right: 10px;\n  }\n}\n"]}
